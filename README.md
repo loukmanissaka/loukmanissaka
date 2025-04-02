@@ -38,11 +38,11 @@ Writing logs to api_test.log when LOG=1 is set in the environment.
 
 📫 Let's Connect!
 
-GitHub: [Your GitHub Profile]
+GitHub: https://github.com/loukmanissaka
 
-LinkedIn: [Your LinkedIn Profile]
+LinkedIn:www.linkedin.com/in/loukmanissaka
 
-Email: [Your Email]
+Email: loukman.issaka@gmail.com
 
 🚀 Always excited to collaborate on data engineering, automation, and API-driven applications!
 
